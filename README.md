@@ -5,7 +5,7 @@ My name is **Eduardo Brito**, I'm a **Software Architect & Full Stack Developer*
 ## 👨‍💻 Currently Working
 - 🏢 **Software Developer** at **Olivia AI Network** 
 - 🔨 Building enterprise-level platform infrastructure and microservices ecosystems
-- 🌱 Specializing in React.js, Node.js, Python, and modern web technologies
+- 🌱 Specializing in React.js, Node.js, Nest.js, Python, and modern web technologies
 
 ## 💡 I'm interested in
 - 💻 **Web Development** - Full-stack applications with React & Node.js
